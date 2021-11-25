@@ -22,7 +22,6 @@
 #include <fcntl.h>
 #include <sys/stat.h>
 #include <sys/sysinfo.h>
-
 #include <dirent.h>
 
 #define min(a, b)(((a) < (b)) ? (a) : (b))
