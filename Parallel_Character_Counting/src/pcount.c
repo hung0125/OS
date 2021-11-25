@@ -78,7 +78,6 @@ void * worker(void * cfg) {
 
             if (dictPos > -1 && dictPos < 26) //somehow without this check it does not work
                 count[i][dictPos]++;
-
         }
     }
 
