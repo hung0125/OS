@@ -67,7 +67,6 @@ void * worker(void * cfg) {
             partition = (contentLen[i] - 1) / maxThreads + 1;
             from = tid * partition;
             actualLen = tid < maxThreads - 1 ? from + partition : from + partition + (contentLen[i]) % maxThreads;
-
         }
 
         for (int j = from; j < actualLen; j++) {
