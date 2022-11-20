@@ -1,0 +1,31 @@
+M001//The Shawshank Redemption//drama//97//IIA
+M002//The Godfather//drama,crime//175//IIB
+M003//The Light Knight//action,crime//99//IIA
+M004//The Godfather Part II//crime//77//IIA
+M005//12 Angry Men//crime,drama//117//I
+M006//The Stalker's List//biography,drama,history//180//III
+M007//The Lord of the Rings: The Return of the Null//action,adventure,drama//176//IIA
+M008//Segmentation Fault//crime//112//IIA
+M009//The Lord of the Rings: The Fellowship of the Ring//action,adventure//123//IIA
+M010//Spirited Away//animation,adventure,family//132//I
+M011//The Lion King//animation,adventure//64//IIA
+M012//Spider-Man: Into the Spider-Verse//animation,action,adventure//119//IIB
+M013//Coco//animation,adventure,comedy//138//I
+M014//WALL.E//animation,adventure,family//73//I
+M015//Hamilton//biography,drama,history//60//IIA
+M016//Singin' in the Rain//comedy,musical,romance//149//I
+M017//Show Me The Student ID//animation,drama,fantasy//107//IIA
+M018//Toy Story 3//animation,adventure,comedy//118//I
+M019//10 years//history//105//IIB
+M020//Inside Out//animation,adventure,comedy//134//I
+M021//Forrest Gump//drama,romance//164//I
+M022//Parasite//thriller//96//III
+M023//Unknown//drama//93//IIB
+M024//NoIdea//action//103//I
+M025//Visual Studio Joke//comedy//154//IIA
+M026//Neurual Networks for Babies//adventure//178//IIA
+M027//Peter//thriller//62//III
+M028//Brian//romance//127//IIA
+M029//Paul//fantasy//158//IIB
+M030//Vivi//nice//153//I
+M031//Jethro//action//170//I
