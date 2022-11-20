@@ -1,0 +1,21 @@
+A001//123456//Aimer//Gold//100.00
+A002//123456//Ado//Silver//1000.00
+A003//123456//Aespa//Bronze//50.00
+A004//123456//AKMU//Bronze//60.00
+A005//123456//Amir//Bronze//80.00
+A006//123456//AmPm//Bronze//100.00
+A007//123456//Ariana Grande//Silver//500.00
+A008//123456//Ava Max//Bronze//100.00
+A009//123456//Avicii//Gold//5000.00
+A010//123456//Avril Lavigne//Bronze//100.00
+A011//123456//Ayase//Silver//499.00
+A012//123456//AURORA//Bronze//67.00
+A020//123456//Apink//Bronze//100.00
+A021//123456//Amine//Silver//300.00
+A013//123456//BACK-ON//Silver//666.00
+A014//123456//Beyond//Gold//9999.00
+A015//123456//BoA//Bronze//30.00
+A016//123456//BOL4//Gold//6666.00
+A017//123456//Bruno Mars//Silver//70.00
+A018//123456//Beyonce//Bronze//1000.00
+A019//123456//Britney Spears//Silver//700.00
