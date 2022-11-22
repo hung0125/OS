@@ -14,7 +14,7 @@ M013//Coco//animation,adventure,comedy//138//I
 M014//WALL.E//animation,adventure,family//73//I
 M015//Hamilton//biography,drama,history//60//IIA
 M016//Singin' in the Rain//comedy,musical,romance//149//I
-M017//Show Me The Student ID//animation,drama,fantasy//107//IIA
+M017//Show Me The Money//animation,drama,fantasy//107//IIA
 M018//Toy Story 3//animation,adventure,comedy//118//I
 M019//10 years//history//105//IIB
 M020//Inside Out//animation,adventure,comedy//134//I
