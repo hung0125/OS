@@ -1,0 +1,2 @@
+general price//morning price//general Ticket//student ticket//senior ticket//bronze membership//silver membership//gold membership
+100//80//1//0.7//0.5//1//0.8//0.7
