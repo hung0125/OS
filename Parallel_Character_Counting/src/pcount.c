@@ -5,7 +5,7 @@
  * Group No.: 3 (Join a project group in Canvas)
  * First member's full name: HUNG Yiu Hong
  * First member's email address: yiuhhung3-c@my.cityu.edu.hk
- * Second member's full name: LEUNG Tak Man
+ * Second member's full name: A freerider who did nothing just annoy female in the world
  * Second member's email address: takmleung2-c@my.cityu.edu.hk
  * Third member's full name: CHAU Yee Lee
  * Third member's email address: leeychau3-c@my.cityu.edu.hk
